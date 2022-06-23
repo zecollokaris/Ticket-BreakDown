@@ -1,5 +1,3 @@
 const {deterministicPartitionKey} = require("./dpk");
 
-console.log(deterministicPartitionKey({
-    name: 'Collins'
-}));
+console.log(deterministicPartitionKey({}));
