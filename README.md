@@ -1,7 +1,5 @@
-This project contains two challenges - a "Ticket Breakdown" challenge and a "Refactoring" challenge. Any written answers should be included in markdown files within this folder.
-
-
 ## [Ticket Breakdown](Ticket_Breakdown.md)
+This project contains two challenges - a "Ticket Breakdown" challenge and a "Refactoring" challenge. Any written answers should be included in markdown files within this folder.
 
 ## [Refactoring](Refactoring.md)
 
